@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 80,
+    "height" : 64
+  }, {
+    "width" : 160,
+    "height" : 128
+  }, {
+    "width" : 320,
+    "height" : 255
+  }, {
+    "width" : 640,
+    "height" : 509
+  }, {
+    "width" : 1279,
+    "height" : 1017
+  }, {
+    "width" : 2558,
+    "height" : 2033
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2558,
+  "@id" : "https://Justine-chn.github.io/GotTapestry/images/IMG_0460",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2033
+}
